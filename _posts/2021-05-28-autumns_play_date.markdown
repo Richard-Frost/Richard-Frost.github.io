@@ -1,9 +1,10 @@
 ---
 layout: post
 title:      "Autumn's Play Date"
-date:       2021-05-28 23:40:01 +0000
+date:       2021-05-28 19:40:01 -0400
 permalink:  autumns_play_date
 ---
+
 
 ![](http://i.imgur.com/GqlrSOL.jpg)
 
