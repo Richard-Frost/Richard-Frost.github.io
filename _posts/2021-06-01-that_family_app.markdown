@@ -6,7 +6,7 @@ permalink:  that_family_app
 ---
 
 
-<a href="https://imgur.com/19Uwbaq"><img src="https://i.imgur.com/19Uwbaq.jpg" title="source: imgur.com"style="max-width: 100%;" /></a>
+<a href="https://imgur.com/19Uwbaq"><img src="https://i.imgur.com/19Uwbaq.jpg" title="source: imgur.com"style="max-width: 40%;" /></a>
 
 For my Rails project, I attempted to create an app I wish I had over 9 years ago when my daughter was born.** That Family App** is a tool to help like-minded familes connect via a social network void of politics, drama and personal information. This app was inspired by each chapter of my family's adventures as we moved to various locations  throughout the country but most importantly, Brooklyn, NY. We couldn't walk more than 100 feet through Prospect Park without running into a family that would be happy to meet us. I tried to make this app look and feel like a walk through Prospect Park. I hope That Family App can one day bring those magical Brooklyn vibes to families far beyond the scope of city life.
 
