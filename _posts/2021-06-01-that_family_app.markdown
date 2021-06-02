@@ -156,7 +156,7 @@ self.playdates.where(datetime: Date.today.beginning_of_day..Date.today.end_of_da
 
 ```
 
-I also included a scope method on the Playdate model. It works with the bored attribute which is a boolean reflecting a child's current state. It let's other parents know that you're child is bored and looking for a friend to play with. The scope method #
+I also included a scope method on the Playdate model. It works with the bored attribute which is a boolean reflecting a child's current state. It let's other parents know that you're child is bored and looking for a friend to play with. 
 
 *app/models/child.rb*
 ```
